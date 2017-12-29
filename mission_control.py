@@ -13,6 +13,6 @@ beta1 = 0.5
 train_model = True
 
 # Paths
-images_path = "./Datasets/maps/train"  # cityscapes, facades, maps
-test_images_path = "./Datasets/maps/val"  # # cityscapes, facades, maps
-results_path = "./Results/maps"  # # cityscapes, facades, maps
+images_path = "./Datasets/birds/train"  # cityscapes, facades, maps, birds
+test_images_path = "./Datasets/birds/val"  # # cityscapes, facades, maps, birds
+results_path = "./Results/birds"  # # cityscapes, facades, maps, birds
